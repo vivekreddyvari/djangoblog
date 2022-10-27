@@ -4,7 +4,7 @@ Blog with Api
 
 Backend Blog + API
 
-Qeb app and API that presents Blog Posts in a feed on a web page. Clicking into a blog post should go to a page dedicated to the blog post.
+Web app and API that presents Blog Posts in a feed on a web page. Clicking into a blog post should go to a page dedicated to the blog post.
 
 Requirements:
 - Django Python with a database of your choice
