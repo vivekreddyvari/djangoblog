@@ -21,4 +21,3 @@ Requirements:
 - Best practices for separation of concerns, handling of secrets, etc
 - A handful of unit and integration tests
 - Handling of bad or malformed data, injection and XSS attacks and other security concerns, good error handling, other real world situations that may arise
-![image](https://user-images.githubusercontent.com/47451566/198391784-4436a7c2-1320-4ff0-acd4-95bb9f333164.png)
